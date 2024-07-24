@@ -172,6 +172,3 @@ In AWS, users choose their network size by using CIDR notation. For more informa
 
 Correct  
 Network ACLs are considered stateless. By default, they allow all traffic in and out of the subnet. However, users can restrict data at the subnet level by including both the
-
-
-![Alt text](image.png)
