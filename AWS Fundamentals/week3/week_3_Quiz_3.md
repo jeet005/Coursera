@@ -1,4 +1,3 @@
-```markdown
 #### Q1. What is a typical use case for Amazon Simple Storage Service (Amazon S3)?
 
 - [x] Object storage for media hosting
@@ -118,4 +117,3 @@ In DynamoDB, an attribute is a fundamental data element. It is something that do
 - [x] Amazon Neptune
 
 Amazon Neptune is a fast, reliable, fully managed graph database service that is designed for fraud detection, social networking, recommendation engines, and more. For more information, see Reading: Choose the right AWS database service.
-```

@@ -2,7 +2,6 @@ Reading 3.8: Choose the Right AWS Database Service
 AWS Database Services
 AWS has a variety of different database options for different use cases. Use the table below to get a quick look at the AWS database portfolio.  
 
-```markdown
 | Database Type  | Use Cases                                                                                      | AWS Service                                         |
 |----------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | Relational     | Traditional applications, ERP, CRM, e-commerce                                                 | Amazon RDS, Amazon Aurora, Amazon Redshift          |
@@ -13,7 +12,6 @@ AWS has a variety of different database options for different use cases. Use the
 | Graph          | Fraud detection, social networking, recommendation engines                                      | Amazon Neptune                                      |
 | Time series    | IoT applications, DevOps, industrial telemetry                                                  | Amazon Timestream                                   |
 | Ledger         | Systems of record, supply chain, registrations, banking transactions                            | Amazon QLDB                                         |
-```
 
 Breaking Up Applications and Databases
 As the industry changes, applications and databases change too. Today, with larger applications, you no longer see just one database supporting it. Instead, these applications are being broken into smaller services, each with their own purpose-built database supporting it.   
